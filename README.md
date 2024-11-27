@@ -4,3 +4,5 @@ Fun fact, I did my first ever coding project with a Raspberry Pi. I used Python 
 With the research I'm working on through the RaceLab at UCSB, I thought I would go back to my roots and experiment with my old Raspberry Pi to obtain a better understanding. 
 
 With that, this repo is mainly me playing around with the functionalities of the Raspberry Pi and hopefully making progress that I can end up using in my research project.
+
+Also, I'm using this as an opportunity to get more comfortable with Git!
